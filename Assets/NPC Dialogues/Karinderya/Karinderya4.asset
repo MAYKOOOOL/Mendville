@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Karinderya4
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Salamat gid, this will make the Natong less fiery, but still flavorful.
+      Wait for a minute while I prepare your food.
+  - positionIndex: 3
+    spriteIndex: 0
+    text: '[fadeOut]'
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "Here you go! Natong cooked with Siling Haba. Not too fiery, not too bland\u2014just
+      right."
+  - positionIndex: 1
+    spriteIndex: 0
+    text: "Mmm! This is delicious! The flavor\u2019s rich, and the spiciness is just
+      perfect. I really like it this way."
+  - positionIndex: 2
+    spriteIndex: 0
+    text: '[Aleng Merly returns from the kitchen carrying bowls of dessert.]'
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "As a special thank you, I made something extra for you both\u2014chili
+      ice cream! One has an extra hot flavor, and the other is mildly spicy. Please
+      enjoy!"
+  - positionIndex: 1
+    spriteIndex: 0
+    text: " Wow, chili ice cream?! That\u2019s new to me\u2026 but it looks exciting!"
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Ha! MendVille truly has the most creative dishes!
+  - positionIndex: 2
+    spriteIndex: 3
+    text: '[Aleng Merly looks a bit shy, fiddling with her apron.]'
+  - positionIndex: 2
+    spriteIndex: 3
+    text: " Sir Mendel\u2026 [playerName]\u2026 I\u2019m really grateful for everything
+      you\u2019ve done so far. But\u2026 I have a small favor to ask."
+  - positionIndex: 0
+    spriteIndex: 1
+    text: Of course, Aleng Merly. What is it?
+  - positionIndex: 2
+    spriteIndex: 2
+    text: "In my garden, I only have violet Winged Bean or Parapagulong. They don\u2019t
+      taste as good as the green ones\u2026 and without the green Parapagulong, I
+      can\u2019t prepare my second signature dish."
+  - positionIndex: 2
+    spriteIndex: 2
+    text: "In my garden, I only have violet Winged Bean or Parapagulong. They don\u2019t
+      taste as good as the green ones\u2026 and without the green Parapagulong, I
+      can\u2019t prepare my second signature dish."
+  - positionIndex: 0
+    spriteIndex: 1
+    text: So the green ones are the better-tasting variety?
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "It would surely bring back another of my karenderya\u2019s most loved
+      dishes."
+  - positionIndex: 0
+    spriteIndex: 1
+    text: "Another challenge awaits, [playerName]. This time, it\u2019s about color
+      once more\u2014green versus violet. Let\u2019s see if you can use your skills
+      to restore yet another MendVille treasure."
+  - positionIndex: 0
+    spriteIndex: 1
+    text: "Another challenge awaits, [playerName]. This time, it\u2019s about color
+      once more\u2014green versus violet. Let\u2019s see if you can use your skills
+      to restore yet another MendVille treasure."

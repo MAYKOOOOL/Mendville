@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Ending Sequence
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 3
+    spriteIndex: 1
+    text: Ahh! You're Back! I heard you've learned how to breed a Flower at Flor's
+      Flower shop
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Yes, But how did you know about it Sir Mendel?
+  - positionIndex: 3
+    spriteIndex: 1
+    text: Hahaha... Paulo Excitedly told me at the letter saying you're a fast learner
+      and will be the saviour of mendville.
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Hahaha... That's an exageration Sir Mendel
+  - positionIndex: 3
+    spriteIndex: 1
+    text: Now that you learned about dyhybrid breeding at Flor's Shop There's nothing
+      i can Teach you anymore
+  - positionIndex: 3
+    spriteIndex: 1
+    text: i'll now gladly gve you my position.
+  - positionIndex: 3
+    spriteIndex: 1
+    text: I can now retire in peace here's the certificate that shows you've mastered
+      the ways of breeding.

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 654ce61cbf6803144ac12d171816e4f7, type: 3}
+  m_Name: Manong Ben
+  m_EditorClassIdentifier: 
+  characterName: Manong Boyet
+  characterSprites:
+  - {fileID: 0}
+  - {fileID: -2759344289941444970, guid: 68c1365c75a0c486b80895a0eeea88c9, type: 3}
+  - {fileID: -3540974071553786910, guid: 68c1365c75a0c486b80895a0eeea88c9, type: 3}
+  - {fileID: 6527584965840239222, guid: 68c1365c75a0c486b80895a0eeea88c9, type: 3}
+  imageSize: {x: 500, y: 1000}

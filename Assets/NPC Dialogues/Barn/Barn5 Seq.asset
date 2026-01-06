@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Barn5 Seq
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Ahh you finally did it thank you so much!
+  - positionIndex: 3
+    spriteIndex: 3
+    text: 'this would help the mendville thrive better. '
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Thank you for your help. By the way would run me some erand one last time?
+  - positionIndex: 0
+    spriteIndex: 0
+    text: No problem Manong Boyet! i'm glad to help.
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Would you please go to Flor's flower shop and tell them that the chicken
+      are now available at our shop and i'll inform aling merly that she can now
+      make his famous dishes hohoho.
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Alright Manong Ben i'll be on my way.
+  - positionIndex: 3
+    spriteIndex: 2
+    text: Thank you Very much!.

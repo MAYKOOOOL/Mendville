@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Tutorial5_Sequence
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 2
+    spriteIndex: 1
+    text: Good Job, Now you have the result you can store it or delete it and even
+      restart the choosing process of the childs.
+  - positionIndex: 2
+    spriteIndex: 1
+    text: Just remember once you deleted it or restart the process you won't be able
+      to restore it.
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "You\u2019ve just completed your first experiment and shown great potential
+      in understanding how traits are passed on. Now, let\u2019s take things a step
+      further."
+  - positionIndex: 2
+    spriteIndex: 1
+    text: Let's try working with pod form next.
+  - positionIndex: 2
+    spriteIndex: 1
+    text: but first let's delete the result earlier.

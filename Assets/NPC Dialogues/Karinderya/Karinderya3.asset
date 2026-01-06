@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Karinderya3
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 2
+    spriteIndex: 3
+    text: "Ay, salamat kid! You\u2019ve done it again! With this Siling Labuyo, I
+      can finally bring back the true flavor of my Natong."
+  - positionIndex: 0
+    spriteIndex: 0
+    text: "Excellent work, [playerName]. You\u2019ve provided the spice of life itself\u2014literally!
+      Now the Natong will be just perfect."
+  - positionIndex: 2
+    spriteIndex: 1
+    text: And just in time too! The taro leaves you brought earlier are already dried.
+      Please, give me a moment to prepare your special meal.
+  - positionIndex: 3
+    spriteIndex: -1
+    text: '[fadeOut]'
+  - positionIndex: 0
+    spriteIndex: 0
+    text: "Ahhh\u2026 marvelous! The Natong is creamy, the flavor is rich, and the
+      spice\u2014absolutely perfect! This is the Natong I\u2019ve been craving!"
+  - positionIndex: 1
+    spriteIndex: 2
+    text: "Whew! It\u2019s\u2026 delicious\u2026 but wow, this spice is strong!"
+  - positionIndex: 0
+    spriteIndex: 1
+    text: "Haha! A true Bicolano feast\u2014Natong that makes you sweat!"
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "Ay, gid, maybe it\u2019s too spicy for you, no? Not everyone can handle
+      the fire of Siling Labuyo."
+  - positionIndex: 1
+    spriteIndex: 3
+    text: "Yeah\u2026 it\u2019s amazing, but maybe just a little too much heat for
+      me."
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "Hmm\u2026 maybe Siling Labuyo is a bit too much for you, gid. Perhaps
+      the chili that truly suits you is Siling Haba\u2014milder, but still with just
+      enough kick to make the Natong delicious."
+  - positionIndex: 0
+    spriteIndex: 1
+    text: 'An excellent idea! [playerName], this would be another opportunity to
+      test your genetic skills. Do you accept this next challenge?  '
+  - positionIndex: 1
+    spriteIndex: 1
+    text: "Yes, I\u2019ll try to create the Siling Haba!"

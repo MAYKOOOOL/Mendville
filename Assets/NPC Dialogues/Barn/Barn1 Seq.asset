@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Barn1 Seq
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "Ha! Almost caught it\u2026 just like the old days\u2026 I\u2019ll bring
+      them back\u2026 I will!"
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Boyet! My friend, what are you doing here?
+  - positionIndex: 2
+    spriteIndex: 2
+    text: "Elder Mendel! It\u2019s been a while. And\u2026 who\u2019s this with you?"
+  - positionIndex: 0
+    spriteIndex: 1
+    text: This is my apprentice [playerName], He has been learning farming and genetics
+      under my guidance.
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "Your Apprentice? So you\u2019ve finally chosen someone to continue your
+      path, Elder Mendel."
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "You caught me practicing. I was preparing for the Rodeo in Masbate. Long
+      ago, I was a Rodeo champion. Every win helped me build this barn. With Elder
+      Mendel\u2019s support, MendVille once had plenty of meat and livestock."
+  - positionIndex: 2
+    spriteIndex: 1
+    text: But now, everything is gone. Illness took my animals, and supplies ran
+      out. I thought maybe if I compete again, I could win livestock and restore
+      this place.
+  - positionIndex: 1
+    spriteIndex: 2
+    text: "Manong Boyet\u2026 isn\u2019t that dangerous for you now?"
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Boyet, you still have courage, but the Rodeo is for the young. We cannot
+      risk you getting hurt.
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "Then what choice do I have? Without livestock, MendVille has nothing from
+      me. I feel I\u2019ve failed everyone."
+  - positionIndex: 0
+    spriteIndex: 1
+    text: "No, Boyet. You are not alone anymore. My Apprentice [playerName] can help
+      you rebuild. The question is\u2014will he accept your request?"
+  - positionIndex: 0
+    spriteIndex: 1
+    text: "So\u2026 [playerName], will you help me bring life back to this barn?"
+  - positionIndex: 2
+    spriteIndex: 3
+    text: "Thank you, [playerName], That means a lot. But tell me\u2014if I start
+      again, what animal should I raise first?"
+  - positionIndex: 1
+    spriteIndex: 3
+    text: "I\u2019m not sure\u2026 but I do remember something. Aleng Merly has been
+      struggling at her karenderya. With no pork, she can only cook vegetables now.
+      Even her Bicol Express is no longer available."
+  - positionIndex: 0
+    spriteIndex: 2
+    text: "Ah\u2026 that explains much. If the karenderya has no pork, the town suffers.
+      Supplying it again would help everyone."
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "Then pigs it must be. But not the kind that\u2019s all meat with barely
+      any fat\u2026 folks here want pork that\u2019s rich, tender, and perfect for
+      Bicol Express. That means Native pigs or Black pigs are what we need."

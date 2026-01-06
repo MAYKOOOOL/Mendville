@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Flor Seq
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Good morning! is this Mrs.Flor's Flower Shop?
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Oh! Hello, Yes This is it why?
+  - positionIndex: 0
+    spriteIndex: 0
+    text: I would like to ask if Mrs.Flor is Here.
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Hahaha... Hello That's Me What do you need?
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Oh.. I apologize that was embarassing.
+  - positionIndex: 2
+    spriteIndex: 3
+    text: it's fine it's fin no worries. why are you looking for me though?
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Manong Boyet asked me to tell you that the chicken stock is now available
+      again.
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Really?! That's a great news i've been craving tinola since last week.
+      thank you for passing the message to me.
+  - positionIndex: 0
+    spriteIndex: 0
+    text: You're Welcome! by the way i've noticed theres a michine right there that
+      looks a lot like the punnette square machine we use in our lab.
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Really? are you perhaps talking about Elder Mendel's Laboratory?
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Oh Yes! i'm currently learning from Elder Mendel the ways of Breeding.
+  - positionIndex: 2
+    spriteIndex: 3
+    text: What a Coincidence hahaha.. Seems like you're curious about the machine
+      why don't you try learning about it?
+  - positionIndex: 0
+    spriteIndex: 0
+    text: will that be alright? i mean wouldn't i be a hindrance to your business?
+  - positionIndex: 2
+    spriteIndex: 3
+    text: It's alright you're student of Elder Mendel so don't worry about it.
+  - positionIndex: 2
+    spriteIndex: 3
+    text: but it will not be easy i'll warn you and i'll just help you with the basics
+      you should dicover the rest.
+  - positionIndex: 0
+    spriteIndex: 0
+    text: That would be alright. Thank you for taking you're time teaching me!
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Okay let's start. First Click the Machine.

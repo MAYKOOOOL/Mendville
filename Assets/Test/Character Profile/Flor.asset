@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 654ce61cbf6803144ac12d171816e4f7, type: 3}
+  m_Name: Flor
+  m_EditorClassIdentifier: 
+  characterName: Flor
+  characterSprites:
+  - {fileID: 0}
+  - {fileID: 3961349525604707530, guid: 4e4d2453fca299a469f69d1dcbc972b1, type: 3}
+  - {fileID: -6481485113112742375, guid: 4e4d2453fca299a469f69d1dcbc972b1, type: 3}
+  - {fileID: 8827761798409155905, guid: 4e4d2453fca299a469f69d1dcbc972b1, type: 3}
+  imageSize: {x: 500, y: 1000}

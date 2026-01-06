@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 654ce61cbf6803144ac12d171816e4f7, type: 3}
+  m_Name: Merly
+  m_EditorClassIdentifier: 
+  characterName: Aleng Merly
+  characterSprites:
+  - {fileID: 0}
+  - {fileID: 1611427714786371559, guid: bf1db9c6dff7d4bd08c46df70a883597, type: 3}
+  - {fileID: -2006237611088723864, guid: bf1db9c6dff7d4bd08c46df70a883597, type: 3}
+  - {fileID: 5241023165298704577, guid: bf1db9c6dff7d4bd08c46df70a883597, type: 3}
+  imageSize: {x: 500, y: 1000}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Intro Dialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 3
+    spriteIndex: 0
+    text: 'Long ago, a humble monk named Gregor
+
+      Mendel uncovered the secret
+      of how traits are passed from parent to offspring hidden within something as
+      simple as a pea pod.'
+  - positionIndex: 3
+    spriteIndex: 1
+    text: Today, in the peaceful village of Mendville
+  - positionIndex: 3
+    spriteIndex: 2
+    text: 'His discoveries still shape how plants grow,
+
+      flowers bloom, and
+      animals thrive.'
+  - positionIndex: 3
+    spriteIndex: 3
+    text: Every technique and process was passed down and being practiced until today.
+  - positionIndex: 3
+    spriteIndex: 4
+    text: Now it's your turn to inherit all the knowledge I learned and restore the
+      declining legacy of our laboratory.

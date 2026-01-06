@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: e7f0e95b2fb64e44c81fae59d0bebf81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7015814412674229375
+    second: PLANTS CONTAINER_0
+  - first:
+      213: -6319347138471942330
+    second: PLANTS CONTAINER_1
+  - first:
+      213: -6992645968481554876
+    second: PLANTS CONTAINER_2
+  - first:
+      213: -5717397797562933632
+    second: PLANTS CONTAINER_3
+  - first:
+      213: 5743582197241045013
+    second: PLANTS CONTAINER_4
+  - first:
+      213: -1946375786548655117
+    second: PLANTS CONTAINER_5
+  - first:
+      213: 6137774514561077276
+    second: PLANTS CONTAINER_6
+  - first:
+      213: 256286443125101793
+    second: PLANTS CONTAINER_7
+  - first:
+      213: -5215656520180158113
+    second: PLANTS CONTAINER_8
+  - first:
+      213: 53105852457797947
+    second: PLANTS CONTAINER_9
+  - first:
+      213: -2226823554929489518
+    second: PLANTS CONTAINER_10
+  - first:
+      213: -712392426327875600
+    second: PLANTS CONTAINER_11
+  - first:
+      213: -1397715635606682559
+    second: PLANTS CONTAINER_12
+  - first:
+      213: 3818309213458027481
+    second: PLANTS CONTAINER_13
+  - first:
+      213: 3474592063941242802
+    second: PLANTS CONTAINER_14
+  - first:
+      213: 3422070486144134567
+    second: PLANTS CONTAINER_15
+  - first:
+      213: 8014674086107245285
+    second: PLANTS CONTAINER_16
+  - first:
+      213: -5841223587853155208
+    second: PLANTS CONTAINER_17
+  - first:
+      213: 7815160761427254181
+    second: PLANTS CONTAINER_18
+  - first:
+      213: 4313592113440023467
+    second: PLANTS CONTAINER_19
+  - first:
+      213: 7121674351665810830
+    second: PLANTS CONTAINER_20
+  - first:
+      213: 2564592266657716477
+    second: PLANTS CONTAINER_21
+  - first:
+      213: 1089310732842935824
+    second: PLANTS CONTAINER_22
+  - first:
+      213: -3117119761395064158
+    second: PLANTS CONTAINER_23
+  - first:
+      213: -4103651867157245159
+    second: PLANTS CONTAINER_24
+  - first:
+      213: -1046865840689609886
+    second: PLANTS CONTAINER_25
+  - first:
+      213: 6696170998207396818
+    second: PLANTS CONTAINER_26
+  - first:
+      213: 2352999630795134579
+    second: PLANTS CONTAINER_27
+  - first:
+      213: -4025722072018600527
+    second: PLANTS CONTAINER_28
+  - first:
+      213: -1216450281161926802
+    second: PLANTS CONTAINER_29
+  - first:
+      213: -3051039622592956049
+    second: PLANTS CONTAINER_30
+  - first:
+      213: 6903863420845307820
+    second: PLANTS CONTAINER_31
+  - first:
+      213: -5043677395935926078
+    second: PLANTS CONTAINER_32
+  - first:
+      213: 3951548960997218789
+    second: PLANTS CONTAINER_33
+  - first:
+      213: 8324878058577223978
+    second: PLANTS CONTAINER_34
+  - first:
+      213: -1320260745093978297
+    second: PLANTS CONTAINER_35
+  - first:
+      213: 8774141473141420059
+    second: PLANTS CONTAINER_36
+  - first:
+      213: -6578301527071881347
+    second: PLANTS CONTAINER_37
+  - first:
+      213: 195902305956936402
+    second: PLANTS CONTAINER_38
+  - first:
+      213: 3781320757597240948
+    second: PLANTS CONTAINER_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 874
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b9c7a86f1d2ae90800000000000000
+      internalID: -7015814412674229375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 874
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647aff6424b2d48a0800000000000000
+      internalID: -6319347138471942330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 874
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ee6905a8125fe90800000000000000
+      internalID: -6992645968481554876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_3
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 874
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e19a4cef8b7a0b0800000000000000
+      internalID: -5717397797562933632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_4
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 874
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5106fccd39d45bf40800000000000000
+      internalID: 5743582197241045013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_5
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 874
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb8853d8851df4e0800000000000000
+      internalID: -1946375786548655117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_6
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 874
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10dbd3d661cd2550800000000000000
+      internalID: 6137774514561077276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_7
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 874
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4583389238e8300800000000000000
+      internalID: 256286443125101793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 667
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51363457044e97b0800000000000000
+      internalID: -5215656520180158113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 668
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39cd3fcd7bacb000800000000000000
+      internalID: 53105852457797947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_10
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 667
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29984f666cbb811e0800000000000000
+      internalID: -2226823554929489518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_11
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 668
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff5c08dcd21d16f0800000000000000
+      internalID: -712392426327875600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 667
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14487aae8015a9ce0800000000000000
+      internalID: -1397715635606682559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_13
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 668
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d354c6dffb5df430800000000000000
+      internalID: 3818309213458027481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_14
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 667
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfeb9ea21b383030800000000000000
+      internalID: 3474592063941242802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_15
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 668
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad28fae9f2ad7f20800000000000000
+      internalID: 3422070486144134567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 453
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea63f42e97d93f60800000000000000
+      internalID: 8014674086107245285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 454
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8744160581ecfeea0800000000000000
+      internalID: -5841223587853155208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_18
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 453
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab51775e47057c60800000000000000
+      internalID: 7815160761427254181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_19
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 454
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3e48b3c25fcdb30800000000000000
+      internalID: 4313592113440023467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_20
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 453
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d0d01371545d260800000000000000
+      internalID: 7121674351665810830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_21
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 454
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8d8d72413479320800000000000000
+      internalID: 2564592266657716477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_22
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 453
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016af1117520e1f00800000000000000
+      internalID: 1089310732842935824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_23
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 454
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a262bb9714cdb4d0800000000000000
+      internalID: -3117119761395064158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 237
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91359307e56ec07c0800000000000000
+      internalID: -4103651867157245159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_25
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 238
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263843e7019c871f0800000000000000
+      internalID: -1046865840689609886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_26
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 237
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbbc678b049dec50800000000000000
+      internalID: 6696170998207396818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_27
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 238
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3765b2e82b887a020800000000000000
+      internalID: 2352999630795134579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_28
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 237
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdb1ecca13c128c0800000000000000
+      internalID: -4025722072018600527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_29
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 238
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e675b601aec4e1fe0800000000000000
+      internalID: -1216450281161926802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_30
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 237
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6974bbd0a788a5d0800000000000000
+      internalID: -3051039622592956049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_31
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 238
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca73c49f3337fcf50800000000000000
+      internalID: 6903863420845307820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 23
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c862958122410ab0800000000000000
+      internalID: -5043677395935926078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_33
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 24
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e99dc408d8b6d630800000000000000
+      internalID: 3951548960997218789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_34
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 23
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2160f7bc78e78370800000000000000
+      internalID: 8324878058577223978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_35
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 24
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747e7cde8dd7dade0800000000000000
+      internalID: -1320260745093978297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_36
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 23
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10fd93be2304c970800000000000000
+      internalID: 8774141473141420059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_37
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 24
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77887d4d9d25b4a0800000000000000
+      internalID: -6578301527071881347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_38
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 23
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da3e3dfb1cf7b200800000000000000
+      internalID: 195902305956936402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLANTS CONTAINER_39
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 24
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ef46ad133f97430800000000000000
+      internalID: 3781320757597240948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PLANTS CONTAINER_0: -7015814412674229375
+      PLANTS CONTAINER_1: -6319347138471942330
+      PLANTS CONTAINER_10: -2226823554929489518
+      PLANTS CONTAINER_11: -712392426327875600
+      PLANTS CONTAINER_12: -1397715635606682559
+      PLANTS CONTAINER_13: 3818309213458027481
+      PLANTS CONTAINER_14: 3474592063941242802
+      PLANTS CONTAINER_15: 3422070486144134567
+      PLANTS CONTAINER_16: 8014674086107245285
+      PLANTS CONTAINER_17: -5841223587853155208
+      PLANTS CONTAINER_18: 7815160761427254181
+      PLANTS CONTAINER_19: 4313592113440023467
+      PLANTS CONTAINER_2: -6992645968481554876
+      PLANTS CONTAINER_20: 7121674351665810830
+      PLANTS CONTAINER_21: 2564592266657716477
+      PLANTS CONTAINER_22: 1089310732842935824
+      PLANTS CONTAINER_23: -3117119761395064158
+      PLANTS CONTAINER_24: -4103651867157245159
+      PLANTS CONTAINER_25: -1046865840689609886
+      PLANTS CONTAINER_26: 6696170998207396818
+      PLANTS CONTAINER_27: 2352999630795134579
+      PLANTS CONTAINER_28: -4025722072018600527
+      PLANTS CONTAINER_29: -1216450281161926802
+      PLANTS CONTAINER_3: -5717397797562933632
+      PLANTS CONTAINER_30: -3051039622592956049
+      PLANTS CONTAINER_31: 6903863420845307820
+      PLANTS CONTAINER_32: -5043677395935926078
+      PLANTS CONTAINER_33: 3951548960997218789
+      PLANTS CONTAINER_34: 8324878058577223978
+      PLANTS CONTAINER_35: -1320260745093978297
+      PLANTS CONTAINER_36: 8774141473141420059
+      PLANTS CONTAINER_37: -6578301527071881347
+      PLANTS CONTAINER_38: 195902305956936402
+      PLANTS CONTAINER_39: 3781320757597240948
+      PLANTS CONTAINER_4: 5743582197241045013
+      PLANTS CONTAINER_5: -1946375786548655117
+      PLANTS CONTAINER_6: 6137774514561077276
+      PLANTS CONTAINER_7: 256286443125101793
+      PLANTS CONTAINER_8: -5215656520180158113
+      PLANTS CONTAINER_9: 53105852457797947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

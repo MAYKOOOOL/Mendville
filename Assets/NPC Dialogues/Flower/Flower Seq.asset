@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Flower Seq
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Great Job!! You're a fast learner ain't you?
+  - positionIndex: 0
+    spriteIndex: 0
+    text: No it was because you'te a great tutor Mrs.Flor
+  - positionIndex: 2
+    spriteIndex: 3
+    text: 'alright alright enough of sugar talk. i''ll give you an assignment for
+      now bring me the possible children list of '
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Heterozygous Violet and Heterozygous spotted orchid (VvSs) with Homozygous
+      recessive yellow and Heterozygous spotted orchid (vvSs).
+  - positionIndex: 2
+    spriteIndex: 3
+    text: i'll be away for now i will check your produced result later.
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Alright Mrs.Flor i will work on it now take care.

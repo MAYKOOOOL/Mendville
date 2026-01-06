@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Tutorial6_Sequence
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 2
+    spriteIndex: 1
+    text: 'Good Job! That was a long day you must be Hungry. [fadeOut]'
+  - positionIndex: 1
+    spriteIndex: 2
+    text: Yes, i'm really hungry right now.
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "Why don\u2019t we take a short break and explore the village together? "
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "There\u2019s a famous spot here in MendVille\u2014Karenderya ni Aleng
+      Merly. Everyone here loves it, and I\u2019m sure we\u2019ll enjoy it too."
+  - positionIndex: 2
+    spriteIndex: 1
+    text: Oh! I almost forgot  you can actually store the result that you got by
+      clicking the store and you can see it in the bag.

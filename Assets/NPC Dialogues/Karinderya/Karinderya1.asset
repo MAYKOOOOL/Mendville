@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Karinderya1
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 1
+    spriteIndex: 1
+    text: "Sir Mendel\u2026 is this really the famous karenderya you were talking
+      about? It looks\u2026 uh, a little quiet.\r\n"
+  - positionIndex: 0
+    spriteIndex: 1
+    text: "Don\u2019t be fooled by appearances, [playerName]! Aleng Merly is an incredible
+      cook. Her dishes are well loved in all of MendVille. Especially my favorite\u2014Laing\u2026
+      or as we Bicolanos call it, Natong.\r"
+  - positionIndex: 3
+    spriteIndex: -1
+    text: '[They look around. Mendel calls out.]'
+  - positionIndex: 0
+    spriteIndex: 0
+    text: Aleng Merly? Are you here?
+  - positionIndex: 1
+    spriteIndex: 2
+    text: "Hello? We\u2019d like to order something to eat!\n"
+  - positionIndex: 3
+    spriteIndex: -1
+    text: "[After a few calls, a woman slowly appears from the kitchen\u2014Aleng
+      Merly. She looks surprised to see customers.]"
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "Ay! Customers? Oh no\u2026 I wasn\u2019t expecting anyone today!\r\n"
+  - positionIndex: 0
+    spriteIndex: 1
+    text: "Why so surprised, Aleng Merly? This is the most famous karenderya in town!\r"
+  - positionIndex: 2
+    spriteIndex: 2
+    text: "Not anymore, Sir Mendel. I can\u2019t cook my best dishes these days.
+      My garden doesn\u2019t grow the right ingredients anymore\u2026 and without
+      them, I can only serve what\u2019s easy to buy in the market\u2014hotdogs,
+      longganisa, and canned food.\r"
+  - positionIndex: 1
+    spriteIndex: 2
+    text: "So\u2026 you mean your special dishes are impossible to cook now?\r"
+  - positionIndex: 2
+    spriteIndex: 3
+    text: "Yes\u2026 especially Natong. The taro leaves in my garden are all the
+      dark green ones\u2014the itchy kind. The good ones, the light green taro leaves,
+      don\u2019t grow here anymore. Without them, I can\u2019t serve my signature
+      Laing."
+  - positionIndex: 0
+    spriteIndex: 1
+    text: 'Ah, [playerName]! This is the perfect challenge for you. Just like with
+      pea pods, this problem can be solved through crossbreeding traits.
+
+'
+  - positionIndex: 1
+    spriteIndex: 2
+    text: "You mean\u2026 we can cross the taro plants to produce the non-itchy light
+      green leaves?\r"
+  - positionIndex: 0
+    spriteIndex: 1
+    text: "Exactly! If we can produce the right kind of taro, Aleng Merly can cook
+      her Laing again.\r\r"
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "But for now\u2026 I can only serve you hotdogs. I hope you don\u2019t
+      mind.\r"
+  - positionIndex: 1
+    spriteIndex: 0
+    text: "Hotdogs are fine, Aleng Merly\u2026 but let\u2019s work on bringing your
+      famous dishes back!\r"
+  - positionIndex: 0
+    spriteIndex: 0
+    text: "Task 2 begins now, [playerName] Your goal is to cross the taro leaves
+      and produce the light green, non-itchy variety.\r\r"

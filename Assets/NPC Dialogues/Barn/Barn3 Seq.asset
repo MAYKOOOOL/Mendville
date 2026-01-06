@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Barn3 Seq
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "Ah, you\u2019ve done it! The White pig and the Spotted pig have grown
+      healthy and strong. I couldn\u2019t be happier with your help just the way
+      people love it. You\u2019ve done well, [playerName]"
+  - positionIndex: 2
+    spriteIndex: 3
+    text: i have another request for you Would it be alright if you breed me some
+      hornless goats it's a Meatstock that mendville need.
+  - positionIndex: 2
+    spriteIndex: 3
+    text: it's mainly used for the Dishes called papaitan and the quality of the
+      hornless goat is the best for it.
+  - positionIndex: 0
+    spriteIndex: 0
+    text: "Sure! I\u2019d like to help you, Manong Boyet. And it will also help aling
+      Merly in her Karinderya."
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Great! I'm expecting great result. Good Luck!!

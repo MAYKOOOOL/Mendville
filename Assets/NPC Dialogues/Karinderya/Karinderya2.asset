@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ec477253c8b241b2e5bc12f87eedc, type: 3}
+  m_Name: Karinderya2
+  m_EditorClassIdentifier: 
+  lines:
+  - positionIndex: 2
+    spriteIndex: 3
+    text: Ay, salamat! You did it! With these leaves, I can finally make Natong again.
+  - positionIndex: 0
+    spriteIndex: 0
+    text: "Excellent work, [playerName]. This is a big step forward\u2014you\u2019re
+      learning genetics while helping the community."
+  - positionIndex: 1
+    spriteIndex: 0
+    text: Can we finally taste your famous "Natong" now?
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "Not yet, kid, Even with the light green taro leaves, we need to dry them
+      for several days before cooking. This process helps remove the itchiness completely.
+      It\u2019s a necessary step, even for the good variety."
+  - positionIndex: 1
+    spriteIndex: 3
+    text: "Oh\u2026 I see. I guess we\u2019ll have to wait."
+  - positionIndex: 2
+    spriteIndex: 1
+    text: "But while we wait, maybe you can help me with another ingredient. You
+      see\u2026 Elder Mendel loves Natong best when it\u2019s spicy."
+  - positionIndex: 1
+    spriteIndex: 3
+    text: "Ah yes! Natong with a fiery kick\u2014that\u2019s the way it should be!"
+  - positionIndex: 2
+    spriteIndex: 3
+    text: "Unfortunately, the only chili that grows in my garden now is siling haba\u2014the
+      long chili. It has little to no spiciness at all. But what we really need is
+      siling labuyo\u2014the wild chili. That one brings the heat Elder Mendel likes."
+  - positionIndex: 0
+    spriteIndex: 3
+    text: "Another challenge, [playerName]! Just like before, traits can be combined
+      to get the variety we need. This time, you must produce siling labuyo\u2014the
+      fiery chili."
+  - positionIndex: 1
+    spriteIndex: 0
+    text: "Alright, leave it to me. I\u2019ll make sure we get that spicy kick for
+      the Natong!\u201D"
